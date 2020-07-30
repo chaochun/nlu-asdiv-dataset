@@ -19,8 +19,8 @@ This dataset uses XML format for each MWP:
 Each **Problem** cell includes the corresponding 3 attributes and 5 properties (*Body*, *Question*, *Solution-Type*, *Answer*, and *Formula*):
 
 + Problem attributes:
-    + **ID**: a unique 10-bytes character identifier
-    + **Grade**:  a grade level indicating the level of difficulty 
+    + **ID**: a unique 10-bytes character identifier.
+    + **Grade**:  a grade level indicating the level of difficulty. 
     + **Source**: an url identifying the reference source where the MWP came from.
 
 + Problem properties:
