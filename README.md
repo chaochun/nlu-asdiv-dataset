@@ -57,7 +57,7 @@ We provide two Fold-ID sets that used in our N-folds cross-validation performanc
 
 
 ## Citation
-This dataset is constructed and released by [Natural Language Understanding laboratory](http://nlul.iis.sinica.edu.tw/), Institute of Information Science, Academia Sinica. If you find this work useful for your research, please cite our paper:
+This dataset is released under the CC BY-NC 4.0 license, and constructed by [Natural Language Understanding laboratory](http://nlul.iis.sinica.edu.tw/), Institute of Information Science, Academia Sinica. If you find this work useful for your research, please cite our paper:
 
 ```
 @inproceedings{miao-etal-2020-diverse,
