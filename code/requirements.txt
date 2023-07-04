@@ -1,0 +1,2 @@
+spacy==3.5.1
+sacrebleu==2.3.1
